@@ -66,7 +66,7 @@ var projects = {
         "dates": "2016",
         "description": "A single-page application featuring a map of a neighborhood.",
         "images": [
-            "https://lorempixel.com/200/200/abstract/1"
+            "http://lorempixel.com/200/200/abstract/1"
         ],
         "url": "https://github.com/jcjodie/udacity-neighborhood-map-project"
     },{
@@ -74,7 +74,7 @@ var projects = {
         "dates": "2016",
         "description": "Provided with visual assets and a game loop engine, recreated the classic arcade game Frogger.",
        "images": [
-            "https://lorempixel.com/200/200/abstract/4"
+            "http://lorempixel.com/200/200/abstract/4"
        ],
        "url": "https://github.com/jcjodie/udacity-arcade-game-project"
     },{
@@ -82,7 +82,7 @@ var projects = {
         "dates": "2016",
         "description": "Developed a responsive website, replicated the design mockup.",
         "images": [
-            "https://lorempixel.com/200/200/abstract/3"
+            "http://lorempixel.com/200/200/abstract/3"
         ],
         "url": "https://github.com/jcjodie/udacity-portfolio-project"
     },{
@@ -90,7 +90,7 @@ var projects = {
         "dates": "2016",
         "description": "Optimized a provided website with a number of optimization- and performance-related issues so that it achieves a target PageSpeed score and runs at 60 frames per second.",
         "images": [
-            "https://lorempixel.com/200/200/abstract/8"
+            "http://lorempixel.com/200/200/abstract/8"
         ],
         "url": "https://github.com/jcjodie/udacity-optimization-project"
     },{
@@ -98,7 +98,7 @@ var projects = {
         "dates": "2016",
         "description": "Tested with Javascript using Jasmine.",
         "images":[
-            "https://lorempixel.com/200/200/abstract/6"
+            "http://lorempixel.com/200/200/abstract/6"
         ],
         "url": "https://github.com/jcjodie/udacity-feedreader-project"
         }
