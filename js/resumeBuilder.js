@@ -6,7 +6,7 @@ var bio = {
     "contacts": {
         "mobile": "847-254-7855",
         "email": "jcmoisant@gmail.com",
-        "github": "JCJodie",
+        "github": "jcjodie",
         "location": "Chicago, IL"
     },
 
@@ -139,7 +139,7 @@ projects.display();
 
 var work = {
     "jobs": [{
-        "title": "Web Developer",
+        "title": "Web Developer Volunteer",
         "dates": "2016",
         "employer": "YNPN Milwaukee",
         "location": "Milwaukee, WI",
@@ -206,7 +206,7 @@ var education = {
     "onlineCourses": [{
         "school": "Udacity",
         "date": "2016",
-        "title": "Front-End Web Development NanoDegree",
+        "title": "Front-End Web Developer NanoDegree",
         "url": "https://www/udacity.com"
     }, {
         "school": "Udemy",
